@@ -19,6 +19,9 @@ app.use(express.json());
 
 
 
+// hey every one use vercel
+
+
 
 const { MongoClient, ServerApiVersion } = require('mongodb');
 const uri = "mongodb+srv://mahedinir34678:mahedi@cluster0.iqgllty.mongodb.net/?retryWrites=true&w=majority";
